@@ -80,7 +80,7 @@
 <body>
 <div class="container">
 	<div class="body">
-		<h4>Input Plain Teks</h4>
+		<h4>Input Teks</h4>
 		<input type="text" name="" id="value">
 
 		<div class="value">
