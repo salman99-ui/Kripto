@@ -93,7 +93,7 @@
 		</div>
 
 		<h4>Hasil</h4>
-		<p id="result">sadlaosc casansab</p>
+		<p id="result"></p>
 	</div>
 </div>
 
